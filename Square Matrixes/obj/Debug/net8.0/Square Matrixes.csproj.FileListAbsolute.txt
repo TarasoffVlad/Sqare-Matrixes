@@ -1,0 +1,14 @@
+C:\Users\blockchain\source\repos\Square Matrixes\bin\Debug\net8.0\Square Matrixes.exe
+C:\Users\blockchain\source\repos\Square Matrixes\bin\Debug\net8.0\Square Matrixes.deps.json
+C:\Users\blockchain\source\repos\Square Matrixes\bin\Debug\net8.0\Square Matrixes.runtimeconfig.json
+C:\Users\blockchain\source\repos\Square Matrixes\bin\Debug\net8.0\Square Matrixes.dll
+C:\Users\blockchain\source\repos\Square Matrixes\bin\Debug\net8.0\Square Matrixes.pdb
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\Square Matrixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\Square Matrixes.AssemblyInfoInputs.cache
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\Square Matrixes.AssemblyInfo.cs
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\Square Matrixes.csproj.CoreCompileInputs.cache
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\Square Matrixes.dll
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\refint\Square Matrixes.dll
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\Square Matrixes.pdb
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\Square Matrixes.genruntimeconfig.cache
+C:\Users\blockchain\source\repos\Square Matrixes\obj\Debug\net8.0\ref\Square Matrixes.dll
